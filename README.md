@@ -5,7 +5,7 @@ A scoreboard used for CTF jeopardy style events
 
 This is a scoreboard that can be used for jeopardy style tournaments. It was developed by us to be used in our capture the flag security events.
 
-<h3>INSTALATION (Version 0.1)</h3>
+<h3>INSTALLATION (Version 0.1)</h3>
 
 You need to have NodeJS, Redis and MySQL installed:
 
